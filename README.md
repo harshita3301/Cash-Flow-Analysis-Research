@@ -37,12 +37,13 @@ To conduct an effective cash flow analysis, businesses typically follow these st
    
 2. **Calculate Net Cash Flow**: Use the formula:
   NET CASH FLOW = Total Cash Inflows - Total Cash Outflows
+
    This calculation helps determine whether the company has a positive or negative cash position over the period analyzed.
 
-3. **Analyze Trends**: Examine historical data to identify trends in cash flows over multiple periods. This trend analysis can highlight potential issues or opportunities for improvement.
+4. **Analyze Trends**: Examine historical data to identify trends in cash flows over multiple periods. This trend analysis can highlight potential issues or opportunities for improvement.
 
-4. **Compare with Industry Benchmarks**: Assess the company's performance against industry standards to gauge competitiveness and operational efficiency.
+5. **Compare with Industry Benchmarks**: Assess the company's performance against industry standards to gauge competitiveness and operational efficiency.
 
-5. **Use Key Metrics**: Calculate key metrics such as free cash flow (the amount of cash available after capital expenditures) to evaluate financial performance comprehensively.
+6. **Use Key Metrics**: Calculate key metrics such as free cash flow (the amount of cash available after capital expenditures) to evaluate financial performance comprehensively.
 
 In conclusion, cash flow analysis is an indispensable process for understanding a company's financial dynamics. By systematically analyzing the inflows and outflows of cash, businesses can make informed decisions that enhance their financial stability and support long-term growth objectives.
