@@ -36,9 +36,7 @@ To conduct an effective cash flow analysis, businesses typically follow these st
 1. **Prepare Cash Flow Statements**: Generate statements that categorize cash flows into operating, investing, and financing activities.
    
 2. **Calculate Net Cash Flow**: Use the formula:
-   $$
-   \text{Net Cash Flow} = \text{Total Cash Inflows} - \text{Total Cash Outflows}
-   $$
+  NET CASH FLOW = Total Cash Inflows - Total Cash Outflows
    This calculation helps determine whether the company has a positive or negative cash position over the period analyzed.
 
 3. **Analyze Trends**: Examine historical data to identify trends in cash flows over multiple periods. This trend analysis can highlight potential issues or opportunities for improvement.
