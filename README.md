@@ -48,9 +48,3 @@ To conduct an effective cash flow analysis, businesses typically follow these st
 5. **Use Key Metrics**: Calculate key metrics such as free cash flow (the amount of cash available after capital expenditures) to evaluate financial performance comprehensively.
 
 In conclusion, cash flow analysis is an indispensable process for understanding a company's financial dynamics. By systematically analyzing the inflows and outflows of cash, businesses can make informed decisions that enhance their financial stability and support long-term growth objectives.
-
-Citations:
-[1] https://www.highradius.com/resources/Blog/steps-to-perform-cash-flow-analysis-with-examples/
-[2] https://byjus.com/commerce/cash-flow-analysis/
-[3] https://www.irvinebookkeeping.com/post/essential-components-on-statement-of-cash-flows
-[4] https://www.investopedia.com/terms/c/cashflow.asp
