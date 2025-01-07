@@ -5,7 +5,7 @@ Cash flow analysis is a crucial financial management tool that evaluates the inf
 ## Components of Cash Flow Analysis
 
 Cash flow analysis revolves around three primary components, each reflecting different aspects of a company's financial activities:
-
+       
 1. **Cash Flow from Operating Activities**: This section measures cash generated from the core business operations. It includes cash receipts from sales, payments to suppliers, and operational expenses such as salaries and rent. A positive cash flow from operating activities indicates that the company can generate sufficient cash to sustain its operations and fund its working capital needs.
 
 2. **Cash Flow from Investing Activities**: This component reflects cash spent on or generated from investments in long-term assets. It includes purchases of property, equipment, or technology (cash outflows) and proceeds from the sale of these assets (cash inflows). Analyzing this section provides insights into a company's growth strategies and capital expenditures.
