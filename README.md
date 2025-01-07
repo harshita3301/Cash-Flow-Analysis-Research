@@ -1,7 +1,7 @@
 # Cash-Flow-Analysis
 
 Cash flow analysis is a crucial financial management tool that evaluates the inflows and outflows of cash within a business over a specific period. This analysis helps stakeholders understand a company's liquidity, solvency, and overall financial health, making it essential for effective decision-making.
-
+       
 ## Components of Cash Flow Analysis
 
 Cash flow analysis revolves around three primary components, each reflecting different aspects of a company's financial activities:
